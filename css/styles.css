@@ -1,0 +1,50 @@
+#logo{
+    position: absolute;
+    width: 230px;
+    height: 190px;
+    top: 4px;
+    left: 1050px;
+}
+
+.button {
+  background-color: darkorange;
+  border: 2px;
+  color: white;
+  padding: 4px 6px;
+    font-size: 19px;
+  margin: 4px 3px;
+  cursor: pointer;
+}
+
+
+.board{
+  position: static;
+  width: 670px;
+  height: 390px;
+  top: 250px;
+  left: 30px;
+}
+
+.kid{
+  position: absolute;
+  width: 500px;
+  height: 390px;
+  top: 640px;
+  left: 950px;
+}
+
+.offerings{
+  position: absolute;
+  width: 1420px;
+  height: 790px;
+  top: 1050px;
+  left: 30px;
+  }
+
+.student{
+  position: absolute;
+  width: 1420px;
+  height: 790px;
+  top: 1820px;
+  left: 30px;
+}
